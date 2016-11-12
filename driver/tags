@@ -1,0 +1,15 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+uart0_rx_intr_handler	C:\Users\changvvb\chang_esp_mqtt\driver\uart.c	198;"	kind:function	line:198	language:C	signature:(void *para)
+uart0_sendStr	C:\Users\changvvb\chang_esp_mqtt\driver\uart.c	180;"	kind:function	line:180	language:C	signature:(const char *str)
+uart0_tx_buffer	C:\Users\changvvb\chang_esp_mqtt\driver\uart.c	162;"	kind:function	line:162	language:C	signature:(uint8 *buf, uint16 len)
+uart0_write_char	C:\Users\changvvb\chang_esp_mqtt\driver\uart.c	139;"	kind:function	line:139	language:C	signature:(char c)
+uart1_write_char	C:\Users\changvvb\chang_esp_mqtt\driver\uart.c	122;"	kind:function	line:122	language:C	signature:(char c)
+uart_config	C:\Users\changvvb\chang_esp_mqtt\driver\uart.c	37;"	kind:function	line:37	language:C	signature:(uint8 uart_no)
+uart_init	C:\Users\changvvb\chang_esp_mqtt\driver\uart.c	295;"	kind:function	line:295	language:C	signature:(UartBautRate uart0_br, UartBautRate uart1_br)
+uart_reattach	C:\Users\changvvb\chang_esp_mqtt\driver\uart.c	309;"	kind:function	line:309	language:C
+uart_tx_one_char	C:\Users\changvvb\chang_esp_mqtt\driver\uart.c	100;"	kind:function	line:100	language:C	signature:(uint8 uart, uint8 TxChar)
